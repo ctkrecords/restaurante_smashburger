@@ -1,0 +1,58 @@
+.fondo{
+	background-color: #f8f9fa;
+}
+.padding_col{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.no-padding{
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.banner{
+	width: 100%;
+}
+p{
+	font-size: 0.85em;
+	text-align: justify;
+}
+.punteado-fondo{
+	border-bottom: dotted;
+}
+h1{
+	background-color: black;
+	color: white;
+	padding-top: 5px; 
+	padding-bottom: 5px;
+}
+h4{
+	text-align: center;
+}
+.p-caption{
+	text-align: center;
+	font-style: italic;
+	font-size: 1em;
+}
+.reducido{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+input{
+	font-size: 0.75em;
+}
+textarea{
+	resize: none;
+}
+.td_{
+	text-align: right;
+	width: 7%;
+}
+.btn_per{
+	padding-right: 5%;
+	padding-left: 5%;
+}
+table{
+	border-radius: 10px;
+}
